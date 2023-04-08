@@ -1,3 +1,7 @@
+# https://github.com/xysun/pychat  
+# https://github.com/sidjee/PyRooms/blob/master/server.py 
+# https://github.com/Eisah-Jones/MultiRoom-Chat/blob/master/Multi-Room%20Chat/Multi_Chat_Server.py  
+
 from socket import *
 import threading
 import atexit
