@@ -1,3 +1,7 @@
+# https://www.tutorialspoint.com/how-do-i-create-a-popup-window-in-tkinter 
+# https://www.youtube.com/watch?v=YXPyB4XeYLA
+# https://www.youtube.com/watch?v=Fq2EBHJrR20 
+
 import tkinter
 import threading
 from socket import *
